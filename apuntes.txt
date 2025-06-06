@@ -1,0 +1,92 @@
+Puntos a poner
+
+1. Introducción
+	1.1 Motivación
+2. Contexto y Estado del Arte
+	2.1 Descripción del problema
+	2.2 Descripción de la solución a abordar
+	2.3 Estado del Arte
+		2.3.1 Mercado Inmobiliario
+		2.3.2 Puntos a destacar - Importancia de la educación financiera e inmobiliaria
+		2.3.3 Proyectos parecidos
+		2.3.4 Mejoras a esos proyectos
+		2.3.5 Conclusión
+3. Objetivos y Metodología
+	3.1 Objetivos del TFG
+	3.2 Objetivos específicos
+	3.3 Objetivos personales
+	3.4 Casos de uso: Aplicación con modelo predictivo
+		3.4.1 Proyectos relevantes
+		3.4.2 Resultados y Beneficios
+	3.5 Metodologías tradicionales y ágiles
+	3.6 Adecuación a un TFG indiviudal
+4. Planificación
+	4.1 Temporización
+	4.2 Diagramas Gantt
+	4.3 Costes
+5. Extracción de Datos
+	5.1 Planteamiento
+	5.2 Investigación de fuentes de datos y APIS descartadas	
+		5.2.1 Instituto Nacional de Estadística (INE)
+		5.2.2 APIs y datos abiertos públicos (estatales y autonómicos)
+		5.2.3 Datos y APIs de Portales inmobiliarios
+		
+	5.3 Fuente de Datos elegida
+ 		5.3.1 API de Idealista de RapidAP
+		5.3.2 Justificación técnica de la elección de la API de Idea-
+		lista vía RapidAPI
+	5.4 Características de la API
+	5.5 Descripción del script
+6. Preprocesado de datos: pasos para ETL y Cuadro de Mando en PowerBI
+	6.1 Consolidación de CSVs crudos
+	6.2 Limpieza y transformación en Python
+	6.3 Exportación del dataset final
+	6.4 Preparación del entorno PowerBI
+	6.5 Modelado de datos en PowerBI
+	6.6 Análisis DataSet
+		6.6.1 Rellenar …
+		6.6.2 Rellenar …
+		6.6.3 Rellenar …
+		… 
+	6.7 Análisis por provincia
+		6.7.1 Análisis Granada
+		6.7.2 Análisis Sevilla
+		6.7.3 Análisis Málaga
+		6.7.4 Análisis Almería
+		6.7.5 Análisis Cádiz
+		6.7.6 Análisis Huelva
+		6.7.7 Análisis Córdoba
+		6.7.8 Análisis Jaén
+	6.8 Conclusiones
+		… 
+7. Implementación: Creación del Modelo Predictivo
+	5.1. Selección de Características y Análisis de Co-
+	relación
+	5.2. Entrenamiento y Evaluación de Modelos de
+	rgresión
+		2.1. Implementación de Modelos Clásicos
+		5.2.2. Interpretación del Modelo con SHAP
+		5.2.3. Automatización del Proceso con H2O AutoML
+		5.3. Persistencia y Exportación del Modelo
+8. Desarrollo de la Aplicación Web
+	8.1. Diseño y Arquitectura de la Plataforma In-
+	eractiva
+		8.1.1 Casos de uso (?)
+	8.2 Implementación de la API con Flask
+		8.2.1 Desarrollo del Endpoint de Predicci´on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
